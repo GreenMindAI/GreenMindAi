@@ -71,3 +71,4 @@ elif sum_retirements_this_month < average_retirements_last_N_months:
 else:
     st.write(f"Retirements remained the same relative to the average of the last {relative_to}.")
 
+
